@@ -2,7 +2,7 @@
 
 This Bootstrap and AJAX/jQuery based table that updates from timed calls to a Google spreadsheet that is driven by a form. This assumes a LAMP or WAMP stack on your sever.
 
-See and example at http://leaderboard.lgerhardt.com
+See an example at http://leaderboard.lgerhardt.com
 
 ## Form Details
 The following columns are needed for the Google Form.
